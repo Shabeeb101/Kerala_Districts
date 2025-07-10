@@ -1,0 +1,9 @@
+.col {
+    margin-bottom: 20px;
+}
+
+img {
+    height: 180px;
+    object-fit: cover;
+    width: 100%;
+}
